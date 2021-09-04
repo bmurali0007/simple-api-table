@@ -1,0 +1,22 @@
+{
+  "person": [
+    {
+      "name": "Bala",
+      "email": "bmurali0007@gmail.com",
+      "phone": "22222",
+      "id": "1"
+    },
+    {
+      "name": "Murali",
+      "email": "cvbmm07@gmail.com",
+      "phone": 7777,
+      "id": "2"
+    },
+    {
+      "name": "Maya C V",
+      "email": "muralimaya5@gmail.com",
+      "phone": 9999,
+      "id": "3"
+    }
+  ]
+}
